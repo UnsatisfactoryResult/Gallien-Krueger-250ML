@@ -1,7 +1,7 @@
 # Gallien-Krueger-250ML
-Gallien-Krueger's 250ML is a small 2 channel solid state 100 watt guitar combo amp with 2 6.5" speakers. It is amazingly full featured with the following:
+Gallien-Krueger's 250ML is a small 2 channel stereo solid state 100 watt guitar combo amp with 2 6.5" speakers. It is amazingly full featured with the following:
 * dual channels
-* compressor
+* compressor on channel A
 * 4 band eq
 * stereo echo and chorus effects
 * foot switch port
